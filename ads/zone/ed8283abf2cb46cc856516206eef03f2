@@ -6,13 +6,13 @@
     "item": [
       {
         "network": "google",
-        "unit_id": "ca-app-pub-5145235081933127/6245043698",
-        "format": "standard"
+		"format": "standard",
+        "unit_id": "ca-app-pub-5145235081933127/6245043698"
       },
       {
         "network": "facebook",
-        "unit_id": "546161942200922_546163798867403",
-        "format": "standard"
+		"format": "standard",
+        "placement _id": "546161942200922_546163798867403"        
       }
     ]
   }
