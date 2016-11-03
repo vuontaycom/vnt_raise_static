@@ -1,6 +1,6 @@
 {
-  "error_code": 0,
-  "error_message": "Successful",
+  "error": 0,
+  "message": "Successful",
   "data": {
     "zone": "ed8283abf2cb46cc856516206eef03f2",
     "item": [
