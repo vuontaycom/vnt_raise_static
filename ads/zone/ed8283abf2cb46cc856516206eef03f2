@@ -7,12 +7,12 @@
       {
         "network": "google",
         "unit_id": "ca-app-pub-5145235081933127/6245043698",
-        "type": "standard"
+        "format": "standard"
       },
       {
         "network": "facebook",
         "unit_id": "546161942200922_546163798867403",
-        "type": "standard"
+        "format": "standard"
       }
     ]
   }
