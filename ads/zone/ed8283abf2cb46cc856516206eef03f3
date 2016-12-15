@@ -5,8 +5,14 @@
     "zone": "ed8283abf2cb46cc856516206eef03f3",
     "item": [
       {
+        "network": "adcolony",
+        "format": "reward",
+        "app_id": "app1717390c31fb491d92",
+        "zone_id": "vzc504cd38733d43efb8"
+      },
+      {
         "network": "google",
-		"format": "standard",
+        "format": "reward",
         "unit_id": "ca-app-pub-5145235081933127/9617312498"
       }
     ]
