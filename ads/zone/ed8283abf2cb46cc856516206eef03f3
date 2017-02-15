@@ -11,9 +11,9 @@
         "zone_id": "vzc504cd38733d43efb8"
       },
       {
-        "network": "google",
+        "network": "vungle",
         "format": "rewarded_video",
-        "unit_id": "ca-app-pub-5145235081933127/9617312498"
+        "app_id": "58492170efa1fddb5f0003d7"
       }
     ]
   }
