@@ -5,6 +5,12 @@
     "zone": "ed8283abf2cb46cc856516206eef03f3",
     "item": [
       {
+        "network": "chartboost",
+        "format": "rewarded_video",
+        "app_id": "58492696f6cd452b346ac6d8",
+        "app_sign": "5b6b898055b65b872088b311b74f098492fe2dca"
+      },
+      {
         "network": "adcolony",
         "format": "rewarded_video",
         "app_id": "app1717390c31fb491d92",
