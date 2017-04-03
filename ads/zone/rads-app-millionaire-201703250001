@@ -1,0 +1,14 @@
+{
+  "code": 0,
+  "message": "Successful",
+  "data": {
+    "zone": "rads-app-millionaire-201703250001",
+    "item": [
+      {
+        "network": "facebook",
+		"format": "standard",
+        "placement_id": "170970950016306_270547516725315"        
+      }
+    ]
+  }
+}

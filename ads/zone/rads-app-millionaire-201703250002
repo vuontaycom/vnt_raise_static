@@ -1,0 +1,14 @@
+{
+  "code": 0,
+  "message": "Successful",
+  "data": {
+    "zone": "rads-app-millionaire-201703250002",
+    "item": [
+      {
+        "network": "vungle",
+        "format": "rewarded_video",
+        "app_id": "584922b206d08ba7140000ce"
+      }
+    ]
+  }
+}
