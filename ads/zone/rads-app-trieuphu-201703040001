@@ -2,12 +2,12 @@
   "code": 0,
   "message": "Successful",
   "data": {
-    "zone": "rads-app-millionaire-201703250001",
+    "zone": "rads-app-trieuphu-201703250001",
     "item": [
       {
         "network": "facebook",
         "format": "standard",
-        "placement_id": "170970950016306_270547516725315"
+        "placement_id": "546161942200922_546163798867403"
       },
       {
         "network": "google",
