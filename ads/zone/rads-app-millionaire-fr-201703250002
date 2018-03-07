@@ -2,18 +2,18 @@
   "code": 0,
   "message": "Successful",
   "data": {
-    "zone": "rads-app-trieuphu-201703040002",
+    "zone": "rads-app-millionaire-fr-201703250002",
     "item": [
 	  {
         "network": "google",
         "format": "rewarded_video",
-        "app_id": "ca-app-pub-5145235081933127~9756913294",
-        "unit_id": "ca-app-pub-5145235081933127/9617312498"
+        "app_id": "ca-app-pub-5145235081933127~7507555551",
+        "unit_id": "ca-app-pub-5145235081933127/7862778773"
       },
       {
         "network": "vungle",
         "format": "rewarded_video",
-        "app_id": "58492170efa1fddb5f0003d7"
+        "app_id": "584922b206d08ba7140000ce"
       }
     ]
   }
