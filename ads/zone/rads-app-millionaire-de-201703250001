@@ -5,15 +5,15 @@
     "zone": "rads-app-millionaire-de-201703250001",
     "item": [
       {
-        "network": "google",
-        "format": "standard",
-		"app_id": "ca-app-pub-5145235081933127~4826811079",
-        "unit_id": "ca-app-pub-5145235081933127/8545251153"
-      },
-      {
         "network": "facebook",
         "format": "standard",
         "placement_id": "1522777414442137_1574164362636775"
+      },
+      {
+        "network": "google",
+        "format": "standard",
+        "app_id": "ca-app-pub-5145235081933127~4826811079",
+        "unit_id": "ca-app-pub-5145235081933127/8545251153"
       }
     ]
   }
