@@ -9,11 +9,6 @@
         "format": "rewarded_video",
         "app_id": "ca-app-pub-5145235081933127~2364299262",
         "unit_id": "ca-app-pub-5145235081933127/1614324372"
-      },
-      {
-        "network": "vungle",
-        "format": "rewarded_video",
-        "app_id": "584922b206d08ba7140000ce"
       }
     ]
   }
