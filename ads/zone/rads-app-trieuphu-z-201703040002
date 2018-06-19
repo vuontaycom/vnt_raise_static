@@ -1,0 +1,15 @@
+{
+  "code": 0,
+  "message": "Successful",
+  "data": {
+    "zone": "rads-app-trieuphu-201703040002",
+    "item": [
+	  {
+        "network": "google",
+        "format": "rewarded_video",
+        "app_id": "ca-app-pub-5145235081933127~4329419681",
+        "unit_id": "ca-app-pub-5145235081933127/3447897443"
+      }
+    ]
+  }
+}
