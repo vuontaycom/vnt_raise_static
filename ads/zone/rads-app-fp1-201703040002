@@ -1,0 +1,21 @@
+{
+  "code": 0,
+  "message": "Successful",
+  "data": {
+    "zone": "rads-app-fp1-201703040002",
+    "item": [
+      {
+        "network": "google",
+        "format": "rewarded_video",
+        "app_id": "ca-app-pub-5145235081933127~8872598029",
+        "unit_id": "ca-app-pub-5145235081933127/8732997220"
+      },
+      {
+        "network": "google",
+        "format": "rewarded_video",
+        "app_id": "ca-app-pub-5145235081933127~8872598029",
+        "unit_id": "ca-app-pub-5145235081933127/8732997220"
+      }
+    ]
+  }
+}
