@@ -1,0 +1,14 @@
+{
+  "code": 0,
+  "message": "Successful",
+  "data": {
+    "zone": "bads-app-demo-201806280001",
+    "item": [
+      {
+        "network": "facebook",
+        "format": "native",
+        "placement_id": "546161942200922_1040459532771158"
+      }
+    ]
+  }
+}
