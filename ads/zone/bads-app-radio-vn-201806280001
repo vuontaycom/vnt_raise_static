@@ -1,0 +1,14 @@
+{
+  "code": 0,
+  "message": "Successful",
+  "data": {
+    "zone": "bads-app-radio-vn-201806280001",
+    "item": [
+      {
+        "network": "facebook",
+        "format": "native",
+        "placement_id": "1961028444213475_2037482286568090"
+      }
+    ]
+  }
+}
