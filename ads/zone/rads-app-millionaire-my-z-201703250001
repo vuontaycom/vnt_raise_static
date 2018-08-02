@@ -1,0 +1,20 @@
+{
+  "code": 0,
+  "message": "Successful",
+  "data": {
+    "zone": "rads-app-millionaire-my-z-201703250001",
+    "item": [
+      {
+        "network": "facebook",
+        "format": "standard",
+        "placement_id": "854879584721772_856958081180589"
+      },
+      {
+        "network": "google",
+        "format": "standard",
+        "app_id": "ca-app-pub-5145235081933127~8642917132",
+        "unit_id": "ca-app-pub-5145235081933127/6587599431"
+      }
+    ]
+  }
+}
