@@ -5,15 +5,27 @@
     "zone": "rads-app-fp1-201703250001",
     "item": [
       {
-        "network": "facebook",
+        "network": "google",
         "format": "standard",
-        "placement_id": "200170790641373_200184107306708"
+        "app_id": "ca-app-pub-5145235081933127~8872598029",
+        "unit_id": "ca-app-pub-5145235081933127/3536510868"
       },
       {
         "network": "google",
         "format": "standard",
         "app_id": "ca-app-pub-5145235081933127~8872598029",
         "unit_id": "ca-app-pub-5145235081933127/3536510868"
+      },
+      {
+        "network": "google",
+        "format": "standard",
+        "app_id": "ca-app-pub-5145235081933127~8872598029",
+        "unit_id": "ca-app-pub-5145235081933127/3536510868"
+      },
+      {
+        "network": "facebook",
+        "format": "standard",
+        "placement_id": "200170790641373_200184107306708"
       }
     ]
   }

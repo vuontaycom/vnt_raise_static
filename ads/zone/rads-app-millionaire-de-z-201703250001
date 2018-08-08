@@ -5,15 +5,27 @@
     "zone": "rads-app-millionaire-de-z-201703250001",
     "item": [
       {
-        "network": "facebook",
+        "network": "google",
         "format": "standard",
-        "placement_id": "219157652078638_219164018744668"
+        "app_id": "ca-app-pub-5145235081933127~6862458843",
+        "unit_id": "ca-app-pub-5145235081933127/5820839918"
       },
       {
         "network": "google",
         "format": "standard",
         "app_id": "ca-app-pub-5145235081933127~6862458843",
         "unit_id": "ca-app-pub-5145235081933127/5820839918"
+      },
+      {
+        "network": "google",
+        "format": "standard",
+        "app_id": "ca-app-pub-5145235081933127~6862458843",
+        "unit_id": "ca-app-pub-5145235081933127/5820839918"
+      },
+      {
+        "network": "facebook",
+        "format": "standard",
+        "placement_id": "219157652078638_219164018744668"
       }
     ]
   }

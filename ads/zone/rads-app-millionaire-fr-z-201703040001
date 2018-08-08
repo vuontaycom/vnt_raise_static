@@ -5,15 +5,27 @@
     "zone": "rads-app-millionaire-fr-z-201703250001",
     "item": [
       {
-        "network": "facebook",
+        "network": "google",
         "format": "standard",
-        "placement_id": "417651648734104_417652838733985"
+        "app_id": "ca-app-pub-5145235081933127~4443343941",
+        "unit_id": "ca-app-pub-5145235081933127/7396401226"
       },
       {
         "network": "google",
         "format": "standard",
         "app_id": "ca-app-pub-5145235081933127~4443343941",
         "unit_id": "ca-app-pub-5145235081933127/7396401226"
+      },
+      {
+        "network": "google",
+        "format": "standard",
+        "app_id": "ca-app-pub-5145235081933127~4443343941",
+        "unit_id": "ca-app-pub-5145235081933127/7396401226"
+      },
+      {
+        "network": "facebook",
+        "format": "standard",
+        "placement_id": "417651648734104_417652838733985"
       }
     ]
   }
