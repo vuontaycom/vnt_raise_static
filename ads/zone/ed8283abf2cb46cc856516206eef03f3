@@ -5,6 +5,11 @@
     "zone": "ed8283abf2cb46cc856516206eef03f3",
     "item": [
       {
+        "network": "facebook",
+        "format": "rewarded_video",
+        "placement_id": "546161942200922_1266960816787694"
+      },
+      {
         "network": "google",
         "format": "rewarded_video",
         "app_id": "ca-app-pub-3940256099942544/5224354917",
