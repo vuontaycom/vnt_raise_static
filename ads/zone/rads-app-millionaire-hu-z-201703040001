@@ -5,27 +5,32 @@
     "zone": "rads-app-millionaire-hu-z-201703250001",
     "item": [
       {
-        "network": "google",
+        "network": "facebook",
         "format": "standard",
-        "app_id": "ca-app-pub-5145235081933127~5946291012",
-        "unit_id": "ca-app-pub-5145235081933127/7982670682"
-      },
-      {
-        "network": "google",
-        "format": "standard",
-        "app_id": "ca-app-pub-5145235081933127~5946291012",
-        "unit_id": "ca-app-pub-5145235081933127/7982670682"
-      },
-      {
-        "network": "google",
-        "format": "standard",
-        "app_id": "ca-app-pub-5145235081933127~5946291012",
-        "unit_id": "ca-app-pub-5145235081933127/7982670682"
+        "placement_id": "266982634052788_267799967304388"
       },
       {
         "network": "facebook",
         "format": "standard",
         "placement_id": "266982634052788_267799967304388"
+      },
+      {
+        "network": "google",
+        "format": "standard",
+        "app_id": "ca-app-pub-5145235081933127~5946291012",
+        "unit_id": "ca-app-pub-5145235081933127/7982670682"
+      },
+      {
+        "network": "google",
+        "format": "standard",
+        "app_id": "ca-app-pub-5145235081933127~5946291012",
+        "unit_id": "ca-app-pub-5145235081933127/7982670682"
+      },
+      {
+        "network": "google",
+        "format": "standard",
+        "app_id": "ca-app-pub-5145235081933127~5946291012",
+        "unit_id": "ca-app-pub-5145235081933127/7982670682"
       }
     ]
   }
