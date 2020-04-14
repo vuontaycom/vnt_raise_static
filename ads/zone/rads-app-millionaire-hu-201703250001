@@ -10,16 +10,6 @@
         "placement_id": "189489961636358_205396510045703"
       },
       {
-        "network": "facebook",
-        "format": "standard",
-        "placement_id": "189489961636358_205396510045703"
-      },
-      {
-        "network": "facebook",
-        "format": "standard",
-        "placement_id": "189489961636358_205396510045703"
-      },
-      {
         "network": "google",
         "format": "standard",
         "app_id": "ca-app-pub-5145235081933127~4523558741",
@@ -28,8 +18,8 @@
       {
         "network": "google",
         "format": "standard",
-        "app_id": "ca-app-pub-5145235081933127~4523558741",
-        "unit_id": "ca-app-pub-5145235081933127/7878202592"
+        "app_id": "ca-app-pub-7249836653432700~2099997968",
+        "unit_id": "ca-app-pub-7249836653432700/4534589611"
       }
     ]
   }

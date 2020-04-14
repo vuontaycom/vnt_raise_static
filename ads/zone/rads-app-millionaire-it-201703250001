@@ -14,6 +14,12 @@
         "format": "standard",
         "app_id": "ca-app-pub-5145235081933127~9411610263",
         "unit_id": "ca-app-pub-5145235081933127/7365344503"
+      },
+      {
+        "network": "google",
+        "format": "standard",
+        "app_id": "ca-app-pub-7249836653432700~2099997968",
+        "unit_id": "ca-app-pub-7249836653432700/4534589611"
       }
     ]
   }
