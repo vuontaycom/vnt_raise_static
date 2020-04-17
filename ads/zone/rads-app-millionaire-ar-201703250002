@@ -4,7 +4,13 @@
   "data": {
     "zone": "rads-app-millionaire-ar-201703250002",
     "item": [
-	  {
+      {
+        "network": "google",
+        "format": "rewarded_video",
+        "app_id": "ca-app-pub-7769085257577060~8212166088",
+        "unit_id": "ca-app-pub-7769085257577060/1455186041"
+      },
+      {
         "network": "google",
         "format": "rewarded_video",
         "app_id": "ca-app-pub-5145235081933127~8508396550",
