@@ -9,17 +9,17 @@
         "format": "standard",
         "placement_id": "162943277708887_162954534374428"
       },
+	  {
+        "network": "google",
+        "format": "standard",
+        "app_id": "ca-app-pub-7769085257577060~8212166088",
+        "unit_id": "ca-app-pub-7769085257577060/6707512724"
+      },
       {
         "network": "google",
         "format": "standard",
         "app_id": "ca-app-pub-5145235081933127~4202696717",
         "unit_id": "ca-app-pub-5145235081933127/4958618450"
-      },
-      {
-        "network": "google",
-        "format": "standard",
-        "app_id": "ca-app-pub-7249836653432700~2099997968",
-        "unit_id": "ca-app-pub-7249836653432700/4534589611"
       }
     ]
   }
