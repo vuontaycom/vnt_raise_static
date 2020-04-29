@@ -1,0 +1,20 @@
+{
+  "code": 0,
+  "message": "Successful",
+  "data": {
+    "zone": "rads-app-batchu-201703040001",
+    "item": [
+	{
+        "network": "facebook",
+        "format": "standard",
+        "placement_id": "544822419552078_545110719523248"
+      },
+      {
+        "network": "google",
+        "format": "standard",
+        "app_id": "ca-app-pub-5145235081933127~6750044493",
+        "unit_id": "ca-app-pub-5145235081933127/8226777693"
+      }
+    ]
+  }
+}
