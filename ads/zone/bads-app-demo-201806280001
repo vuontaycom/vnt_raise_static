@@ -5,6 +5,12 @@
     "zone": "bads-app-demo-201806280001",
     "item": [
       {
+        "network": "google",
+        "format": "native",
+        "app_id": "ca-app-pub-7769085257577060~8212166088",
+        "unit_id": "ca-app-pub-7769085257577060/7780921245"
+      },
+      {
         "network": "facebook",
         "format": "native",
         "placement_id": "546161942200922_1040459532771158"
