@@ -5,13 +5,13 @@
     "zone": "rads-app-millionaire-it-201703250002",
     "item": [
 	  {
-        "network": "google",
+        "network": "xgoogle",
         "format": "rewarded_video",
         "app_id": "ca-app-pub-7769085257577060~8212166088",
         "unit_id": "ca-app-pub-7769085257577060/1455186041"
       },
 	  {
-        "network": "google",
+        "network": "xgoogle",
         "format": "rewarded_video",
         "app_id": "ca-app-pub-5145235081933127~9411610263",
         "unit_id": "ca-app-pub-5145235081933127/1812321849"
