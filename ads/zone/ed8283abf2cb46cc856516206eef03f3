@@ -2,18 +2,13 @@
   "code": 0,
   "message": "Successful",
   "data": {
-    "zone": "ed8283abf2cb46cc856516206eef03f3",
+    "zone": "rads-app-trieuphu-201703250001",
     "item": [
-      {
-        "network": "facebook",
-        "format": "rewarded_video",
-        "placement_id": "546161942200922_1266960816787694"
-      },
-      {
+	  {
         "network": "google",
-        "format": "rewarded_video",
-        "app_id": "ca-app-pub-3940256099942544/5224354917",
-        "unit_id": "ca-app-pub-3940256099942544/5224354917"
+        "format": "standard",
+        "app_id": "ca-app-pub-7769085257577060~8212166088",
+        "unit_id": "ca-app-pub-7769085257577060/6707512724"
       }
     ]
   }
