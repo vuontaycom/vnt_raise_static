@@ -7,12 +7,6 @@
 	  {
         "network": "google",
         "format": "rewarded_video",
-        "app_id": "ca-app-pub-7769085257577060~8212166088",
-        "unit_id": "ca-app-pub-7769085257577060/1455186041"
-      },
-	  {
-        "network": "google",
-        "format": "rewarded_video",
         "app_id": "ca-app-pub-5145235081933127~2364299262",
         "unit_id": "ca-app-pub-5145235081933127/1614324372"
       }
