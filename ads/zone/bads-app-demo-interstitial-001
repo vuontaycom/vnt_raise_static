@@ -1,0 +1,14 @@
+{
+  "code": 0,
+  "message": "Successful",
+  "data": {
+    "zone": "bads-app-demo-interstitial-001",
+    "item": [
+      {
+        "network": "google",
+        "format": "standard",
+        "unit_id": "ca-app-pub-3940256099942544/1033173712"
+      }
+    ]
+  }
+}

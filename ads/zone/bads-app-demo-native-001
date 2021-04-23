@@ -2,13 +2,12 @@
   "code": 0,
   "message": "Successful",
   "data": {
-    "zone": "bads-app-demo-201806280001",
+    "zone": "bads-app-demo-native-001",
     "item": [
       {
         "network": "google",
         "format": "native",
-        "app_id": "ca-app-pub-7769085257577060~8212166088",
-        "unit_id": "ca-app-pub-7769085257577060/7780921245"
+        "unit_id": "ca-app-pub-3940256099942544/2247696110"
       },
       {
         "network": "facebook",

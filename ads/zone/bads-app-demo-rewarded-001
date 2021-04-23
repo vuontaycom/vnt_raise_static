@@ -1,0 +1,19 @@
+{
+  "code": 0,
+  "message": "Successful",
+  "data": {
+    "zone": "bads-app-demo-rewarded-001",
+    "item": [
+      {
+        "network": "google",
+        "format": "native",
+        "unit_id": "ca-app-pub-3940256099942544/5224354917"
+      },
+      {
+        "network": "facebook",
+        "format": "native",
+        "placement_id": "546161942200922_1040459532771158"
+      }
+    ]
+  }
+}
