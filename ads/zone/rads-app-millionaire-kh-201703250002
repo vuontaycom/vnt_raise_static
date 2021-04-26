@@ -5,10 +5,9 @@
     "zone": "rads-app-millionaire-kh-201703250002",
     "item": [
 	  {
-        "network": "google",
+        "network": "facebook",
         "format": "rewarded_video",
-        "app_id": "ca-app-pub-5145235081933127~8817972417",
-        "unit_id": "ca-app-pub-5145235081933127/2912584207"
+        "placement_id": "1919350541470431_5336701666401951"
       }
     ]
   }
