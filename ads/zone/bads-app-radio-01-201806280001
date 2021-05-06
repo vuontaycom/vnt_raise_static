@@ -3,12 +3,6 @@
   "message": "Successful",
   "data": {
     "zone": "bads-app-radio-01-201806280001",
-    "item": [
-      {
-        "network": "facebook",
-        "format": "native",
-        "placement_id": "836892313088158_1486731621437554"
-      }
-    ]
+    "item": []
   }
 }
