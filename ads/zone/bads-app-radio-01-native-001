@@ -1,0 +1,14 @@
+{
+  "code": 0,
+  "message": "Successful",
+  "data": {
+    "zone": "bads-app-radio-01-native-001",
+    "item": [
+      {
+        "network": "google",
+        "format": "native",
+        "unit_id": "ca-app-pub-4844152342032513/4570593801"
+      }
+    ]
+  }
+}
