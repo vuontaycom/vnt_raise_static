@@ -1,0 +1,14 @@
+{
+  "code": 0,
+  "message": "Successful",
+  "data": {
+    "zone": "bads-app-html5-native-001",
+    "item": [
+      {
+        "network": "google",
+        "format": "native",
+        "unit_id": "ca-app-pub-5145235081933127/3318630340"
+      }
+    ]
+  }
+}
