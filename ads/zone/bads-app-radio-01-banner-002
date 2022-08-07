@@ -1,0 +1,14 @@
+{
+  "code": 0,
+  "message": "Successful",
+  "data": {
+    "zone": "bads-app-radio-01-banner-002",
+    "item": [
+      {
+        "network": "google",
+        "format": "banner",
+        "unit_id": "ca-app-pub-5145235081933127/6121715635"
+      }
+    ]
+  }
+}
