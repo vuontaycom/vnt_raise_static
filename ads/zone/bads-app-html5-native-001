@@ -8,6 +8,16 @@
         "network": "google",
         "format": "native",
         "unit_id": "ca-app-pub-5145235081933127/6502712448"
+      },
+	  {
+        "network": "google",
+        "format": "native",
+        "unit_id": "ca-app-pub-4844152342032513/3586944800"
+      },
+	  {
+        "network": "google",
+        "format": "native",
+        "unit_id": "ca-app-pub-4844152342032513/7107051670"
       }
     ]
   }

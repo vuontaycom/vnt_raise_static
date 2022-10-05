@@ -8,6 +8,16 @@
         "network": "google",
         "format": "banner",
         "unit_id": "ca-app-pub-5145235081933127/4246910079"
+      },
+	  {
+        "network": "google",
+        "format": "banner",
+        "unit_id": "ca-app-pub-4844152342032513/1751118958"
+      },
+	  {
+        "network": "google",
+        "format": "banner",
+        "unit_id": "ca-app-pub-4844152342032513/3295262775"
       }
     ]
   }
