@@ -7,6 +7,12 @@
       {
         "network": "google",
         "format": "standard",
+        "app_id": "ca-app-pub-7769085257577060~9157330052",
+        "unit_id": "ca-app-pub-7769085257577060/3739930969"
+      },
+	  {
+        "network": "google",
+        "format": "standard",
         "app_id": "ca-app-pub-5145235081933127~7212442395",
         "unit_id": "ca-app-pub-5145235081933127/8983306174"
       }

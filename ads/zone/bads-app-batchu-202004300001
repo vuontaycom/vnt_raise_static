@@ -4,10 +4,11 @@
   "data": {
     "zone": "bads-app-batchu-202004300001",
     "item": [
-	{
-        "network": "facebook",
+	  {
+        "network": "google",
         "format": "standard",
-        "placement_id": "544822419552078_545110719523248"
+        "app_id": "ca-app-pub-7769085257577060~1676874403",
+        "unit_id": "ca-app-pub-7769085257577060/6737629399"
       },
       {
         "network": "google",

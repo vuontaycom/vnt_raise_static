@@ -4,16 +4,11 @@
   "data": {
     "zone": "bads-app-batchu-202004300002",
     "item": [
-	{
-        "network": "facebook",
-        "format": "rewarded_video",
-        "placement_id": "544822419552078_548445759189744"
-      },
       {
         "network": "google",
         "format": "rewarded_video",
-        "app_id": "ca-app-pub-5145235081933127~6750044493",
-        "unit_id": "ca-app-pub-5145235081933127/6341714168"
+        "app_id": "ca-app-pub-7769085257577060~1676874403",
+        "unit_id": "ca-app-pub-7769085257577060/2798384389"
       },
       {
         "network": "google",
