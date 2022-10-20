@@ -4,16 +4,11 @@
   "data": {
     "zone": "bads-app-html5-native-001",
     "item": [
-      {
-        "network": "google",
-        "format": "native",
-        "unit_id": "ca-app-pub-7769085257577060/9083756982"
-      },
 	  {
         "network": "google",
         "format": "native",
         "unit_id": "ca-app-pub-5145235081933127/6502712448"
-      },
+      }
     ]
   }
 }

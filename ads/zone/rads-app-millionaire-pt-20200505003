@@ -4,12 +4,6 @@
   "data": {
     "zone": "rads-app-millionaire-20200505003",
     "item": [
-      {
-        "network": "google",
-        "format": "native",
-        "app_id": "ca-app-pub-7769085257577060~9157330052",
-        "unit_id": "ca-app-pub-7769085257577060/9331168995"
-      },
 	  {
         "network": "google",
         "format": "native",

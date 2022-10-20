@@ -4,11 +4,6 @@
   "data": {
     "zone": "bads-app-html5-interstitial-001",
     "item": [
-      {
-        "network": "google",
-        "format": "standard",
-        "unit_id": "ca-app-pub-7769085257577060/5601228429"
-      },
 	  {
         "network": "google",
         "format": "standard",
