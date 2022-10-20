@@ -1,0 +1,14 @@
+{
+  "code": 0,
+  "message": "Successful",
+  "data": {
+    "zone": "bads-app-batchu-interstitial-rightanwser",
+    "item": [
+	  {
+        "network": "google",
+        "format": "standard",
+        "unit_id": "ca-app-pub-5145235081933127/4241605792"
+      }
+    ]
+  }
+}
