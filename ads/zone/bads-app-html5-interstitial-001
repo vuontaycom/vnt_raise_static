@@ -4,10 +4,23 @@
   "data": {
     "zone": "bads-app-html5-interstitial-001",
     "item": [
-	  {
+      {
         "network": "google",
         "format": "standard",
-        "unit_id": "ca-app-pub-1064029973024434/3383157954"
+        "unit_id": "ca-app-pub-1064029973024434/7433801107",
+        "note": "high floor"
+      },
+      {
+        "network": "google",
+        "format": "standard",
+        "unit_id": "ca-app-pub-1064029973024434/4727746712",
+        "note": "medium floor"
+      },
+      {
+        "network": "google",
+        "format": "standard",
+        "unit_id": "ca-app-pub-1064029973024434/3383157954",
+        "note": "all prices"
       }
     ]
   }
