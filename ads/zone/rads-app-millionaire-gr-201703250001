@@ -2,13 +2,28 @@
   "code": 0,
   "message": "Successful",
   "data": {
-    "zone": "rads-app-millionaire-gr-201703250001",
+    "zone": "rads-app-millionaire-201703250001",
     "item": [
-	  {
+      {
         "network": "google",
         "format": "standard",
         "app_id": "ca-app-pub-1064029973024434~9066729472",
-        "unit_id": "ca-app-pub-1064029973024434/5319303573"
+        "unit_id": "ca-app-pub-1064029973024434/4066531038",
+        "note": "high"
+      },
+      {
+        "network": "google",
+        "format": "standard",
+        "app_id": "ca-app-pub-1064029973024434~9066729472",
+        "unit_id": "ca-app-pub-1064029973024434/5319303573",
+        "note": "medium"
+      },
+      {
+        "network": "google",
+        "format": "standard",
+        "app_id": "ca-app-pub-1064029973024434~9066729472",
+        "unit_id": "ca-app-pub-1064029973024434/7798161985",
+        "note": "all"
       }
     ]
   }
