@@ -7,12 +7,6 @@
       {
         "network": "google",
         "format": "standard",
-        "unit_id": "ca-app-pub-9315771064636337/9776781699",
-        "note": "all prices"
-      },
-      {
-        "network": "google",
-        "format": "standard",
         "unit_id": "ca-app-pub-9315771064636337/1262445975",
         "note": "high floor"
       },
@@ -21,6 +15,12 @@
         "format": "standard",
         "unit_id": "ca-app-pub-9315771064636337/7357081038",
         "note": "medium floor"
+      },
+      {
+        "network": "google",
+        "format": "standard",
+        "unit_id": "ca-app-pub-9315771064636337/9776781699",
+        "note": "all prices"
       }
     ]
   }
