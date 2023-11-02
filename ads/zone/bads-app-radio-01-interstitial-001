@@ -2,12 +2,25 @@
   "code": 0,
   "message": "Successful",
   "data": {
-    "zone": "bads-app-radio-01-interstitial-001",
+    "zone": "bads-app-radio-interstitial-001",
     "item": [
-	  {
+      {
         "network": "google",
         "format": "standard",
-        "unit_id": "ca-app-pub-2878209772023994/6507588390"
+        "unit_id": "ca-app-pub-9315771064636337/2545194321",
+        "note": "high floor"
+      },
+      {
+        "network": "google",
+        "format": "standard",
+        "unit_id": "ca-app-pub-9315771064636337/6519226214",
+        "note": "medium floor"
+      },
+      {
+        "network": "google",
+        "format": "standard",
+        "unit_id": "ca-app-pub-9315771064636337/6811742395",
+        "note": "all prices"
       }
     ]
   }

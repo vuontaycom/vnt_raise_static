@@ -2,12 +2,25 @@
   "code": 0,
   "message": "Successful",
   "data": {
-    "zone": "bads-app-radio-01-native-001",
+    "zone": "bads-app-radio-native-001",
     "item": [
       {
         "network": "google",
         "format": "native",
-        "unit_id": "ca-app-pub-1064029973024434/8313132577"
+        "unit_id": "ca-app-pub-9315771064636337/8953817865",
+        "note": "high floor"
+      },
+      {
+        "network": "google",
+        "format": "native",
+        "unit_id": "ca-app-pub-9315771064636337/8532018176",
+        "note": "medium floor"
+      },
+      {
+        "network": "google",
+        "format": "native",
+        "unit_id": "ca-app-pub-9315771064636337/2252678143",
+        "note": "all prices"
       }
     ]
   }
