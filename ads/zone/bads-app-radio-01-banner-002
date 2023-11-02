@@ -2,12 +2,25 @@
   "code": 0,
   "message": "Successful",
   "data": {
-    "zone": "bads-app-radio-01-banner-002",
+    "zone": "bads-app-radio-banner-listing2-001",
     "item": [
-	  {
+      {
         "network": "google",
         "format": "banner",
-        "unit_id": "ca-app-pub-2878209772023994/4396376471"
+        "unit_id": "ca-app-pub-9315771064636337/1892805241",
+        "note": "high floor"
+      },
+      {
+        "network": "google",
+        "format": "banner",
+        "unit_id": "ca-app-pub-9315771064636337/9796126248",
+        "note": "high floor"
+      },
+      {
+        "network": "google",
+        "format": "banner",
+        "unit_id": "ca-app-pub-9315771064636337/2484612435",
+        "note": "high floor"
       }
     ]
   }
