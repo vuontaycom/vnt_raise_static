@@ -4,24 +4,7 @@
   "data": {
     "zone": "bads-app-radio-01-banner-001",
     "item": [
-      {
-        "network": "google",
-        "format": "banner",
-        "unit_id": "ca-app-pub-9315771064636337/7939338845",
-        "note": "high floor"
-      },
-      {
-        "network": "google",
-        "format": "banner",
-        "unit_id": "ca-app-pub-9315771064636337/6626257172",
-        "note": "high floor"
-      },
-      {
-        "network": "google",
-        "format": "banner",
-        "unit_id": "ca-app-pub-9315771064636337/7581026448",
-        "note": "high floor"
-      }
+      
     ]
   }
 }
